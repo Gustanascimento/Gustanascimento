@@ -1,9 +1,6 @@
-![](cover.jpg)
-
 ### Hi there 👋
 
-
-
+![](cover.jpg)
 
 
 <!--

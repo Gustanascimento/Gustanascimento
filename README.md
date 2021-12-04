@@ -1,7 +1,10 @@
-### Hi there 👋
+### 
+
+<h1 align="center">Hi there! <img src="wave.gif"
+         height="45"
+         width="45" /></h1>
 
 ![](cover.jpg)
-
 
 <!--
 
